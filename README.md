@@ -1,16 +1,16 @@
-Hi
+I’m Deepak Kumar, a Generative AI & AI/ML Engineer with 4+ years of experience building intelligent, scalable AI solutions. My core focus is on developing LLM-powered applications, including RAG-based systems, AI chatbots, and recommendation engines using technologies like LangChain, LlamaIndex, and OpenAI/Azure OpenAI.
 
-I’m Deepak Kumar, a Platform Engineer with 4+ years of experience building and automating cloud platforms on AWS. My core focus is on infrastructure automation using Terraform and CI/CD pipelines, working extensively with AWS services such as EC2, ECS, ECR, Lambda, VPC, and IAM. I have strong hands-on experience with Docker and Kubernetes for containerized workloads, along with monitoring and observability using Grafana and Prometheus. I’ve also worked with Ansible for configuration automation, with an emphasis on reliability, scalability, and developer enablement.
-**Tech Stack:**
+I have strong hands-on experience in designing end-to-end AI pipelines, including document ingestion, preprocessing, chunking, embeddings, and semantic retrieval using vector databases. I work extensively with Python, FastAPI, AWS, and Docker to build production-ready AI systems with high performance and scalability.
 
-1. Platform & Infrastructure Automation: Terraform, AWS, Python(automation & tooling), Linux(production systems)
+I’ve also worked on agent-based GenAI solutions, prompt engineering, and fine-tuning models for tasks such as summarization, classification, and conversational AI, with a strong focus on real-world enterprise use cases.
 
-2. CI/CD & Developer Enablement: Jenkins, GitHub Actions, CodePipeline
+Tech Stack:
+1. Generative AI & LLMs: OpenAI, Azure OpenAI, GPT, LangChain, LlamaIndex, Prompt Engineering, Function Calling
+2. RAG & Vector Search: RAG Pipelines, Vector Databases (Chroma/ANN), Embeddings, Semantic Search
+3. AI/ML Development: NLP, Model Development, Fine-tuning, Recommendation Systems
+4. Backend & APIs: Python, FastAPI, REST APIs
+5. Cloud & Deployment: AWS, Docker
+6. Data & Storage: PostgreSQL, MongoDB, Redis, Cosmos DB
+7. System Design: Scalable AI Systems, Real-time Processing, End-to-End AI Pipelines
 
-3. Containers & Runtime Platforms: Docker, Kubernetes
-
-4. Observability & Reliability: Grafana, Prometheus
-
-5. System Design: High Availability, Scalable Systems, Microservices
-
-Let's Connect to Discuss more about skills. I will help you to set up infrastructure.
+Let’s connect to discuss how I can help build intelligent AI solutions and scalable GenAI systems.
